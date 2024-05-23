@@ -6,7 +6,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/DerwenAI/pytextrank?style=plastic)
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/DerwenAI/pytextrank.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/DerwenAI/pytextrank/context:python)
 ![CI](https://github.com/DerwenAI/pytextrank/workflows/CI/badge.svg)
 ![downloads](https://img.shields.io/pypi/dm/pytextrank)
 ![sponsor](https://img.shields.io/github/sponsors/ceteri)
@@ -133,7 +132,7 @@ Source code for **PyTextRank** plus its logo, documentation, and examples
 have an [MIT license](https://spdx.org/licenses/MIT.html) which is
 succinct and simplifies use in commercial applications.
 
-All materials herein are Copyright &copy; 2016-2022 Derwen, Inc.
+All materials herein are Copyright &copy; 2016-2024 Derwen, Inc.
 
 
 ## Attribution
@@ -172,6 +171,7 @@ and to our contributors:
 [@clabornd](https://github.com/clabornd),
 [@dayalstrub-cma](https://github.com/dayalstrub-cma),
 [@kavorite](https://github.com/kavorite),
+[@0dB](https://github.com/0dB),
 [@htmartin](https://github.com/htmartin),
 [@williamsmj](https://github.com/williamsmj/),
 [@mattkohl](https://github.com/mattkohl),
